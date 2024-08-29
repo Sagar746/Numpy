@@ -23,3 +23,10 @@ print(dot)
 
 print(x.T)
 
+
+
+# ---------------------------
+
+arr1 = np.identity(3)
+print(arr1)
+
