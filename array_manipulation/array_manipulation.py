@@ -9,7 +9,7 @@ print(ap)
 
 # -----------------------------------------------------------
 
-arr = np.arange(1,13).reshape(4,3)
+arr = np.arange(1,13).reshape(2,6)
 
 print(f'array to be appended columnwise')
 col = np.arange(5,11).reshape(1,6)
