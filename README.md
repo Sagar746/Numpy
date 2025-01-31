@@ -9,6 +9,7 @@ pip3 install numpy
 <details>
  <summary>Basic Numypy array</summary>
  ```python
+ 
 import numpy as np
 
  arr = np.array([1,2,3])
