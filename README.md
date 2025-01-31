@@ -5,12 +5,16 @@
 ```
 pip3 install numpy
 ```
-Let's create simple numpy array
 
-```python
+<details>
+ <summary>Basic Numypy array</summary>
+ ```python
 import numpy as np
 
-arr = np.array([1,2,3])
-print(arr)
+ arr = np.array([1,2,3])
+ print(arr)
+ ```
+> ```python
+[1,2,3]
 ```
->> [1,2,3]
+</details>
