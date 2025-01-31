@@ -8,6 +8,7 @@ pip3 install numpy
 
 <details>
  <summary>Basic Numypy array</summary>
+ 
  ```
  
 import numpy as np
@@ -17,7 +18,4 @@ import numpy as np
  print(arr)
  ```
 
-```
-[1,2,3]
-```
 </details>
