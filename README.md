@@ -6,7 +6,7 @@
 pip3 install numpy
 ```
 
-> <details>
+<details>
  <summary>Basic Numypy array</summary>
  
  ```
