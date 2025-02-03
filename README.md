@@ -18,6 +18,6 @@ import numpy as np
  print(arr)
  ```
 
-> [1,2,3]
+>> [1,2,3]
 
 </details>
